@@ -1,0 +1,9 @@
+{
+  "exclude": ["**/__pycache__", "**/.*", "node_modules"],
+  "typeCheckingMode": "basic",
+  "reportMissingImports": false,
+  "reportMissingTypeStubs": false,
+  "reportArgumentType": false,
+  "reportGeneralTypeIssues": false,
+  "pythonPath": "./src"
+}

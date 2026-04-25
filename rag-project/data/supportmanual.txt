@@ -1,0 +1,19 @@
+# Customer Support Manual
+
+## Returns and Refunds
+Our return policy allows customers to return items within 30 days of purchase. Items must be in original condition with tags attached. Refunds are processed within 5-7 business days after receipt.
+
+## Shipping Information
+We offer free shipping on orders over $50. Standard shipping takes 3-5 business days. Express shipping is available for an additional fee.
+
+## Account Management
+Customers can manage their accounts through our website. Features include order history, saved payment methods, and address book updates.
+
+## Technical Support
+For technical issues, please contact our support team at support@company.com or call 1-800-HELP. Our hours are Monday-Friday 9AM-6PM EST.
+
+## Billing Questions
+Billing inquiries can be directed to billing@company.com. We accept Visa, Mastercard, American Express, and PayPal.
+
+## Product Warranty
+All products come with a 1-year warranty against defects. Warranty claims must be submitted with proof of purchase.

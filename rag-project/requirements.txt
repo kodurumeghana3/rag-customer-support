@@ -1,0 +1,28 @@
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-openai==0.1.14
+langchain-core==0.2.43
+langchain-text-splitters==0.2.2
+langchain-groq==0.1.10
+langgraph==0.1.19
+
+# PDF loading
+pypdf==4.2.0
+
+# LLM API
+openai==1.35.3
+langchain-huggingface==0.0.3
+langsmith==0.1.147
+
+# Utilities
+python-dotenv==1.0.1
+pytest==8.2.0
+
+# Embeddings (local, free)
+sentence-transformers==3.0.1
+pydantic==2.7.4
+numpy==1.26.4
+
+# Optional: for running the FastAPI web version
+fastapi==0.111.0
+uvicorn==0.30.1
